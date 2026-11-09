@@ -1,3 +1,4 @@
+
 # Apply Roster
 
 **Take control of your job search.**
@@ -22,30 +23,27 @@ Applying for jobs can quickly become difficult to manage. Apply Roster provides 
 
 ## App Screenshots
 
-### Dashboard
-![Dashboard](screenshots/dashboard.jpeg)
+<p align="center">
+  <img src="screenshots/dashboard.jpeg" width="30%" alt="Dashboard" />
+  <img src="screenshots/all_applications.jpeg" width="30%" alt="All Applications" />
+  <img src="screenshots/applied_applications.jpeg" width="30%" alt="Applied Applications" />
+</p>
 
-### Applications
-![All Applications](screenshots/all_applications.jpeg)
+<p align="center">
+  <img src="screenshots/add_new_application.jpeg" width="30%" alt="Add Application" />
+  <img src="screenshots/application_details.jpeg" width="30%" alt="Application Details" />
+  <img src="screenshots/reminders.jpeg" width="30%" alt="Reminders" />
+</p>
 
-![Applied Applications](screenshots/applied_applications.jpeg)
+<p align="center">
+  <img src="screenshots/reminder_details.jpeg" width="30%" alt="Reminder Details" />
+  <img src="screenshots/notifications.jpeg" width="30%" alt="Notifications" />
+  <img src="screenshots/onboarding1.jpeg" width="30%" alt="Onboarding" />
+</p>
 
-### Add & Manage Applications
-![Add Application](screenshots/add_new_application.jpeg)
-
-![Application Details](screenshots/application_details.jpeg)
-
-### Reminders & Notifications
-![Reminders](screenshots/reminders.jpeg)
-
-![Reminder Details](screenshots/reminder_details.jpeg)
-
-![Notifications](screenshots/notifications.jpeg)
-
-### Onboarding & Settings
-![Onboarding](screenshots/onboarding1.jpeg)
-
-![Settings](screenshots/settings.jpeg)
+<p align="center">
+  <img src="screenshots/settings.jpeg" width="30%" alt="Settings" />
+</p>
 
 ## Technology Stack
 
